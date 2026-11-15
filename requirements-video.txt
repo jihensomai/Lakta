@@ -1,0 +1,4 @@
+# Analyse de vraies vidéos (lourd : plusieurs Go avec les modèles)
+faster-whisper
+ultralytics
+opencv-python

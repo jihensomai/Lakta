@@ -1,0 +1,10 @@
+{
+  "video": "exemple (données fictives)",
+  "segments": [
+    {"debut": 12.0, "fin": 27.5, "texte": "La mère parle de l'héritage pendant le dîner."},
+    {"debut": 41.0, "fin": 58.0, "texte": "Le père ouvre la fenêtre et regarde la rue."},
+    {"debut": 75.5, "fin": 90.0, "texte": "Aaslema, kifech el 7al ? Bienvenue dans la maison."},
+    {"debut": 102.0, "fin": 118.0, "texte": "Ils préparent le couscous pour la fête de famille."},
+    {"debut": 131.0, "fin": 149.0, "texte": "Barcha nass fil kahwa, il raconte son enfance."}
+  ]
+}
