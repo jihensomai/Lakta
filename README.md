@@ -42,7 +42,6 @@ Ce que nous avons appris :
 
 ### Ce qui existe déjà
 
-[À compléter : outils de montage avec recherche par IA, applications de continuité pour scriptes.]
 
 Notre différence : le tunisien, l'arabe et le français mélangés, des rushes traités en local pour rester confidentiels, et un outil pensé pour les petites structures.
 
