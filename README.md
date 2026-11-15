@@ -38,7 +38,6 @@ Ce que nous avons appris :
 - **40 %** des répondants perdent du temps à chercher dans leurs rushes.
 - **30 %** des répondants citent d'abord ces erreurs passées inaperçues.
 
-Témoignage : « [citation exacte] » ([prénom, métier]).
 
 
 ### Ce qui existe déjà
